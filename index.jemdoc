@@ -5,22 +5,24 @@
 {}{img_left}{photos/bio.JPG}{alt text}{120px}{160px}
 [./ Xin Li], Ph.D. Candidate \n
 \n
+ShanghaiTech University \n
+University of Chinese Academy of Sciences \n
+Shanghai Institute of Microsystem and Information Technology, Chinese Academy of Sciences \n
+\n
 Email: china.lixin1@gmail.com \n
 \[[https://scholar.google.com/citations?hl=zh-CN&user=Vol9LxwAAAAJ Google Scholar]\]\[[CV.pdf CV]\] \n
 ~~~
 
 
 == News
-- \[05-15-2020\] "List-wise fairness criterion for point processes" is accepted by KDD'20!
-- \[05-04-2020\] Defended my Ph.D. dissertation titled "Predictive modeling of asynchronous event sequence data"!
-- \[05-25-2019\] An extention of our ICDM'18 work "Local low-rank Hawkes processes for modeling temporal user-item interactions" is accepted by Knowledge and Information Systems(KAIS)!
-- \[10-31-2018\] "Geometric Hawkes processes with graph convolutional recurrent neural networks" is accepted by AAAI'19! 
-- \[08-18-2018\] "Local low-rank Hawkes processes for temporal user-item interactions" is accepted by ICDM'18!
-- \[08-18-2018\] "Demographic inference via knowledge transfer in cross-domain recommender systems" is accepted by ICDM'18!
+- \[09-15-2020\] "System Design and Implementation of A Transient-Motion-Powered IoT Sensor Node" has been awarded the SMASIS 2020 Finalist of Best Student Hardware Competition!
+- \[07-23-2020\] "ViPSN: a vibration-powered IoT platform" is accepted by IOTJ!
+- \[01-30-2020\] "Competition: Using DeCoT+ to Collect Data under Interference" has been awarded the 1st place at the EWSN 2019 Dependability Competition!
+- \[08-18-2019\] ViPSN has been awarded the 1st Runner Up of the IEEE Industrial Electronics Society (IES) Inter-Chapter Paper Competition!
 
 == About me
-I am now a Ph.D. candidate at ShanghaiTech University. I am also with the Shanghai Institute of Microsystem and Information Technology, Chinese Academy of Sciences, and University of Chinese Academy of Sciences.
-My research advisor is Professor [http://metal.shanghaitech.edu.cn/people.htm Junrui Liang]. My research interests include kinetic energy harvesting, intermittent computing, ubiquitous computing, and battery-free IoT.
+I am now a Ph.D. candidate at [https://www.shanghaitech.edu.cn/eng/ ShanghaiTech University]. I am also with the Shanghai Institute of Microsystem and Information Technology, Chinese Academy of Sciences, and University of Chinese Academy of Sciences.
+My research advisor is [http://metal.shanghaitech.edu.cn/people.htm Prof. Junrui Liang]. My research interests include kinetic energy harvesting, intermittent computing, ubiquitous computing, and battery-free IoT.
 
 == Education 
 - Ph.D. in Electronic and Information Engineering, ShanghaiTech University, Sept. 2016 - Present
@@ -29,6 +31,6 @@ My research advisor is Professor [http://metal.shanghaitech.edu.cn/people.htm Ju
 
 == Research Interests 
 - Energy harvesting
-- Battery-free IoT systems
 - Intermittent computing
 - Ubiquitous computing
+- Battery-free IoT
