@@ -598,6 +598,7 @@ img {
     font-weight: var(--font-semi);
     padding: 2rem 0;
     justify-content: center;
+    align-content: center;
 }
 
 .footer__text {
@@ -618,6 +619,17 @@ img {
 
 .footer__copy {
     font-size: var(--small-font-size);
+}
+
+.footer__img {
+    position: relative;
+    /* margin: 0 var(--mb-2); */
+    margin-bottom: var(--mb-1);
+    /* justify-content: center; */
+    /* align-items: center; */
+    margin-left: auto;
+    margin-right: auto;
+    width: 30px;
 }
 
 
