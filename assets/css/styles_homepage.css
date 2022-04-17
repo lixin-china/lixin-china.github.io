@@ -623,13 +623,11 @@ img {
 
 .footer__img {
     position: relative;
-    /* margin: 0 var(--mb-2); */
+    margin-top: var(--mb-1);
     margin-bottom: var(--mb-1);
-    /* justify-content: center; */
-    /* align-items: center; */
     margin-left: auto;
     margin-right: auto;
-    width: 77px;
+    width: 117px;
 }
 
 
