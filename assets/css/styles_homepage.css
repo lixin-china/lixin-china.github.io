@@ -596,13 +596,13 @@ img {
     color: var(--body-color);
     text-align: center;
     font-weight: var(--font-semi);
-    padding: 2rem 0;
+    padding: .5rem 0;
     justify-content: center;
     align-content: center;
 }
 
-.footer__text {
-    /* font-size: 2rem; */
+
+/* .footer__text {
     font-size: var(--small-font-size);
     margin-bottom: var(--mb-1);
 }
@@ -615,7 +615,7 @@ img {
     font-size: 1.5rem;
     color: var(--body-color);
     margin: 0 var(--mb-2);
-}
+} */
 
 .footer__copy {
     font-size: var(--small-font-size);
