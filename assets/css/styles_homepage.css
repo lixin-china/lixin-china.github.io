@@ -179,7 +179,7 @@ img {
 
 .bd-grid {
     max-width: 1024px;
-    width: calc(100% - 2rem);
+    /* width: calc(100% - 2rem); */
     display: grid;
     gap: 1rem;
 }
@@ -664,13 +664,14 @@ img {
     }
     .blockRow__img {
         width: 300px;
-        /* margin: auto; */
+        margin: auto;
     }
     .blockRow__title {
-        /* margin: auto; */
+        margin-left: auto;
         text-align: auto;
     }
     .blockRow__date {
+        margin-left: auto;
         text-align: auto;
     }
     .block__date {
@@ -796,6 +797,7 @@ img {
         width: 777px;
     }
     .blockRow__title {
+        /* margin: auto; */
         width: 777px;
     }
     .blockRow__subtitle {
