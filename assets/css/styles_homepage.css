@@ -704,14 +704,16 @@ img {
         margin-left: var(--mb-1);
         margin-right: var(--mb-1);
     }
-    .bd-container {
-        margin-left: auto;
-        margin-right: auto;
-    }
     .bd-grid {
         width: calc(100% - 2rem);
         margin-left: var(--mb-2);
         margin-right: var(--mb-2);
+    }
+    .nav {
+        height: calc(var(--header-height) + 1rem);
+    }
+    .nav__logo-img {
+        width: 29rem;
     }
     .nav__logo-img {
         width: 29rem;
@@ -793,7 +795,7 @@ img {
     .nav__toggle {
         display: none;
     }
-        .blockRow__container {
+    .blockRow__container {
         grid-template-columns: repeat(2, max-content);
         justify-content: center;
         align-items: center;
@@ -881,7 +883,7 @@ img {
 
 /* For tall screens on mobiles y desktop*/
 
-@media screen and (min-height: 721px) {
+@media screen and (min-height: 992px) {
     .home__container {
         height: 640px;
     }
