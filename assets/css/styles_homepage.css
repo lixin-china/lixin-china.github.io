@@ -807,6 +807,21 @@ img {
     .blockRow__detail {
         width: 600px;
     }
+        .about__container {
+        grid-template-columns: repeat(2, max-content);
+        margin-top: var(--mb-4);
+        column-gap: 2rem;
+        align-items: center;
+        text-align: initial;
+        padding: 2rem 0;
+    }
+    .about__imgNoBackground {
+        align-content: center;
+        width: 277px;
+    }
+    .about__text {
+        width: 600px;
+    }
 }
 @media screen and (min-width: 1024px) {
     .bd-container {
