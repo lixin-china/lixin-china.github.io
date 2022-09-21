@@ -741,6 +741,8 @@ img {
 /*     .nav {
         height: calc(var(--header-height) + 1.5rem);
     } */
+    
+   
     .block__container {
         grid-template-columns: repeat(2, 1fr);
         row-gap: 2rem;
@@ -777,7 +779,7 @@ img {
     .nav {
         height: calc(var(--header-height) + 1rem);
     }
-    .nav__list {
+/*     .nav__list {
         display: flex;
         padding-top: 0;
         /* padding-bottom: 0; */
@@ -786,7 +788,7 @@ img {
     .nav__item {
         margin-left: var(--mb-4);
         margin-bottom: 0;
-    }
+    } */
     .nav__toggle {
         display: none;
     }
