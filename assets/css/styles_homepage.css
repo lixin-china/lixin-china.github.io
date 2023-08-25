@@ -871,6 +871,7 @@ img {
     .about__container {
         grid-template-columns: repeat(2, max-content);
         margin-top: var(--mb-4);
+        margin-bottom: var(--mb-4);
         column-gap: 2rem;
         align-items: center;
         text-align: initial;
