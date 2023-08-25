@@ -325,7 +325,7 @@ img {
 /* ===== ABOUT =====*/
 
 .about {
-    background: var(--white-color);
+    background: var(--body-color);
 }
 
 .about__container {
