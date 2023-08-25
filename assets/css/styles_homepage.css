@@ -151,7 +151,7 @@ img {
 }
 
 .research {
-    margin-top: -2rem;
+    margin-top: 1rem;
 }
 
 .publications {
@@ -325,7 +325,7 @@ img {
 /* ===== ABOUT =====*/
 
 .about {
-    background: var(--body-color);
+    background: var(--white-color);
 }
 
 .about__container {
@@ -871,7 +871,6 @@ img {
     .about__container {
         grid-template-columns: repeat(2, max-content);
         margin-top: var(--mb-4);
-        margin-bottom: var(--mb-1);
         column-gap: 2rem;
         align-items: center;
         text-align: initial;
